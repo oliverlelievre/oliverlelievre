@@ -1,17 +1,20 @@
 ![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
-<h1 align="center">Hi 👋, I'm Oliver Le Lievre</h1>
-<h3 align="center">A passionate frontend developer from New Zealand</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverlelievre&label=Profile%20views&color=0e75b6&style=flat" alt="oliverlelievre" /> </p>
+
+<h1 align="center">Hi 👋, I'm Oliver Le Lievre</h1>
+<h3 align="center">A passionate full-stack developer from New Zealand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverlelievre&label=Profile%20views&color=0e75b6&style=flat" alt="oliverlelievre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliverlelievre" alt="oliverlelievre" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/oliverlelievre" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/oliverlelievre?logo=twitter&style=for-the-badge" alt="https://twitter.com/oliverlelievre" /></a> </p>
+<p align="left"> <a href="https://twitter.com/oliverlelievre" target="blank"><img src="https://img.shields.io/twitter/follow/oliverlelievre?logo=twitter&style=for-the-badge" alt="oliverlelievre" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **projects using Next.js**
+- 👯 I’m looking to collaborate on **projects**
 
 - 🤝 I’m looking for help with **furthering my career**
 
@@ -27,9 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/oliverlelievre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/oliverlelievre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oliver-l-42a47971/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oliver-l-42a47971/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc6xvamadmtc6mml5xbqbirq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6xvamadmtc6mml5xbqbirq" height="30" width="40" /></a>
+<a href="https://twitter.com/oliverlelievre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oliverlelievre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oliver-l-42a47971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliver-l-42a47971" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/olinocode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="olinocode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,3 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliverlelievre&show_icons=true&locale=en" alt="oliverlelievre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverlelievre&" alt="oliverlelievre" /></p>
+
