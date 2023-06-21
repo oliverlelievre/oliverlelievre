@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
+![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
 <h1 align="center">Hi 👋, I'm Oliver Le Lievre</h1>
 <h3 align="center">A passionate frontend developer from New Zealand</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
