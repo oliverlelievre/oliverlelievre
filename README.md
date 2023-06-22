@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverlelievre&label=Profile%20views&color=0e75b6&style=flat" alt="oliverlelievre" /> </p>
 
-<h1 align="center">Hi 👋, I'm Oliver Le Lievre</h1>
+<h1 align="center">Hi 👋,<br> I'm Oliver Le Lievre</h1>
 <h3 align="center">A passionate full-stack developer from New Zealand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverlelievre&label=Profile%20views&color=0e75b6&style=flat" alt="oliverlelievre" /> </p>
