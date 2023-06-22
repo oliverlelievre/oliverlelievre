@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋,<br> I'm Oliver Le Lievre</h1>
 <h3 align="center">A passionate full-stack developer from New Zealand</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverlelievre&label=Profile%20views&color=0e75b6&style=flat" alt="oliverlelievre" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliverlelievre" alt="oliverlelievre" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/oliverlelievre" target="blank"><img src="https://img.shields.io/twitter/follow/oliverlelievre?logo=twitter&style=for-the-badge" alt="oliverlelievre" /></a> </p>
