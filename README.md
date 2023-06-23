@@ -1,12 +1,10 @@
-![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
+![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner-800x320.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverlelievre&label=Profile%20views&color=0e75b6&style=flat" alt="oliverlelievre" /> </p>
 
-<h1 align="center">Hi 👋,<br> I'm Oliver Le Lievre</h1>
+<h1 align="center">Hi 👋<br> I'm Oliver Le Lievre</h1>
 <h3 align="center">A passionate full-stack developer from New Zealand</h3>
 
-<p align="left"> <a href="https://twitter.com/oliverlelievre" target="blank"><img src="https://img.shields.io/twitter/follow/oliverlelievre?logo=twitter&style=for-the-badge" alt="oliverlelievre" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
