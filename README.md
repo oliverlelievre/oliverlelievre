@@ -7,7 +7,7 @@
 👯 Open to collaborative projects
 🤝 Seeking guidance to advance my career
 👨‍💻 Explore my projects at https://github.com/oliverlelievre
-📝 Check out my articles at www.oli-no-code.io
+📝 Check out my real-world projects at www.oliverlelievre.com
 💬 Ask me about My No-Code sneaker marketplace
 📫 Reach me at hello@iamollie.com
 ⚡ Fun fact: Proficient No-Code developer now diving into code!
